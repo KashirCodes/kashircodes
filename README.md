@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React , JavaScript , C++ , C ,C#**
 
-- 📫 How to reach me **snaggs.kashir@gmail.com**
+- 📫 How to reach me **CashCodes@hotmail.com**
 
 
 <p align="left">
