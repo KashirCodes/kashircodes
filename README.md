@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning **Auth , Seo , PHP**
 
 - 💬 Ask me about **React , JavaScript , C++ , C ,C#**
+- I like watching Anime :D
 
 - 📫 How to reach me **CashCodes@hotmail.com**
 
