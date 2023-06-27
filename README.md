@@ -8,7 +8,7 @@
 <img align="left" alt="coding" width="100" src="https://media.tenor.com/eLAfrLgpWZsAAAAM/robotics-world-nft.gif">
 - 🔭 I’m currently working on **Ecommerce platform**
 
-- 🌱 I’m currently learning **Auth , Seo , PHP**
+- 🌱 I’m currently learning **Danjo , Python , PHP , Swift for ios**
 
 - 💬 Ask me about **React , JavaScript , C++ , C ,C#**
 -    I like watching Anime :D
