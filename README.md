@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kashir</h1>
+<h1 align="center">Hi 👋</h1>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/BraveViciousDeviltasmanian-size_restricted.gif">
 
 <h3 align="center">Im a FullStack Developer from Tobago and Canada</h3>
