@@ -30,6 +30,6 @@
 <div align="center">
 <img   src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rockstarjun&layout=compact&theme=tokyonight"  /><br>
 <img width='450'  src="https://github-readme-streak-stats.herokuapp.com/?user=rockstarjun&theme=gruvbox" /><br>
-<img   src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rockstarjun&show_icons=true&include_all_commits=false&theme=radical" /><br>
+
 </div>
 
