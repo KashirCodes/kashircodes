@@ -29,7 +29,7 @@
 ### 📝 Stats Overview
 <div align="center">
 <img   src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rockstarjun&layout=compact&theme=tokyonight"  /><br>
-<img width='450'  src="https://github-readme-streak-stats.herokuapp.com/?user=rockstarjun&theme=gruvbox" /><br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KashirCodes%20&theme=swift&border_radius=4&type=png" alt="GitHub Streak" /></a>
 
 </div>
 
