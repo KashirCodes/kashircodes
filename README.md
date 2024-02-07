@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋</h1>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/BraveViciousDeviltasmanian-size_restricted.gif">
 
-<h3 align="center">Im a FullStack Developer  Canada</h3>
-<p align=""><img align="left" alt="coding" width="700" src="https://cdna.artstation.com/p/assets/images/images/015/124/546/large/paul-boy-gdfgddgf.jpg?1547143295"></p>
-
-
-
-
 <p align="top"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+
+<h3 align="center">Im a FullStack Developer  Canada</h3>
+<p align="center"><img align="left" alt="coding" width="700" src="https://cdna.artstation.com/p/assets/images/images/015/124/546/large/paul-boy-gdfgddgf.jpg?1547143295"></p>
+
+
+
+
 
 
 <p align="center">
