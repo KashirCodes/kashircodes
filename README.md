@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-![Design and Development]([https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg](https://cdna.artstation.com/p/assets/images/images/015/124/546/large/paul-boy-gdfgddgf.jpg?1547143295))
-
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/BraveViciousDeviltasmanian-size_restricted.gif">
 
 <p align="top"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
