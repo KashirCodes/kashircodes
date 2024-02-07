@@ -5,7 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-<img align="center" alt="coding" width="600" src="https://cdna.artstation.com/p/assets/images/images/015/124/546/large/paul-boy-gdfgddgf.jpg?1547143295">
+<img align="left" alt="coding" width="700" src="https://cdna.artstation.com/p/assets/images/images/015/124/546/large/paul-boy-gdfgddgf.jpg?1547143295">
 - 🔭 I’m currently working on **Ecommerce platform**
 
 - 🌱 I’m currently learning **Danjo , Python , PHP , Swift for ios**
