@@ -9,15 +9,6 @@
 
 <p align="top"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="center">
-🔭 I’m currently working on Ecommerce platform
-
-🌱 I’m currently learning **Danjo , Python , PHP , Swift for ios**
-
-💬 Ask me about **React , JavaScript , C++ , C ,C#**
-
-📫 How to reach me **CashCodes@hotmail.com**
-</p>
 
 <p align="center">
   <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&weight=900&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=false&width=439&height=53&lines=FULL+STACK+DEVELOPER;3+YEARS+OF+EXPERIENCE;WATCHING+ANIME" alt="Typing SVG" /></a>
