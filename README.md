@@ -1,5 +1,3 @@
-
-<h3 align="center">Im a FullStack Developer  Canada</h3>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cash Codes
 ==================================================================================================================================
 
@@ -35,4 +33,3 @@ Currently working on an Ecommerce Project
 <a href="http://www.github.com/KashirCodes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KashirCodes&stroke=000000&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <a href="https://github.com/KashirCodes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashirCodes&langs_count=10&title_color=000000&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
