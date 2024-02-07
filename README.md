@@ -16,10 +16,11 @@
 - 📫 How to reach me **CashCodes@hotmail.com**
 
 
-<p align="left">
+<p align="center">
+  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&weight=900&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=false&width=439&height=53&lines=FULL+STACK+DEVELOPER;3+YEARS+OF+EXPERIENCE;WATCHING+ANIME" alt="Typing SVG" /></a>
 </p>
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&weight=900&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=false&width=439&height=53&lines=FULL+STACK+DEVELOPER;3+YEARS+OF+EXPERIENCE;WATCHING+ANIME" alt="Typing SVG" /></a>
+
 
 
 
