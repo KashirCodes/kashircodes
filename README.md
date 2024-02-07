@@ -5,7 +5,7 @@
 
 
 <h3 align="center">Im a FullStack Developer  Canada</h3>
-<p align="center"><img align="left" alt="coding" width="700" src="https://cdna.artstation.com/p/assets/images/images/015/124/546/large/paul-boy-gdfgddgf.jpg?1547143295"></p>
+<p align="right"><img align="left" alt="coding" width="700" src="https://cdna.artstation.com/p/assets/images/images/015/124/546/large/paul-boy-gdfgddgf.jpg?1547143295"></p>
 
 
 
