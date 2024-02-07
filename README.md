@@ -6,9 +6,6 @@
 
 
 
-<p align="center">
-  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&weight=900&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=false&width=439&height=53&lines=FULL+STACK+DEVELOPER;3+YEARS+OF+EXPERIENCE;WATCHING+ANIME" alt="Typing SVG" /></a>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
@@ -22,6 +19,9 @@
 
 - 📫 How to reach me **CashCodes@hotmail.com**
 
+<p align="center">
+  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&weight=900&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=false&width=439&height=53&lines=FULL+STACK+DEVELOPER;3+YEARS+OF+EXPERIENCE;WATCHING+ANIME" alt="Typing SVG" /></a>
+</p>
 
 
 
