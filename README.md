@@ -30,7 +30,7 @@
 
 ### 📝 Stats Overview
 <div align="center">
-<img   src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rockstarjun&layout=compact&theme=tokyonight"  /><br>
+<img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashirCodes"  /><br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KashirCodes%20&theme=swift&border_radius=4&type=png" alt="GitHub Streak" /></a>
 
 </div>
