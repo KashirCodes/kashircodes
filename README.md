@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋</h1>
+![Design and Development]([https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg](https://cdna.artstation.com/p/assets/images/images/015/124/546/large/paul-boy-gdfgddgf.jpg?1547143295))
+
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/BraveViciousDeviltasmanian-size_restricted.gif">
 
 <p align="top"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
