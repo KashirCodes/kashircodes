@@ -4,17 +4,6 @@
 <h3 align="center">Im a FullStack Developer  Canada</h3>
 <p align="center"><img align="left" alt="coding" width="700" src="https://cdna.artstation.com/p/assets/images/images/015/124/546/large/paul-boy-gdfgddgf.jpg?1547143295"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-
-
-- 🔭 I’m currently working on **Ecommerce platform**
-
-- 🌱 I’m currently learning **Danjo , Python , PHP , Swift for ios**
-
-- 💬 Ask me about **React , JavaScript , C++ , C ,C#**
--    I like watching Anime :D
-
-- 📫 How to reach me **CashCodes@hotmail.com**
 
 
 <p align="center">
